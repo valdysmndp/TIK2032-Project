@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rivaldy Sumendap - HTML</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <h3>RIVALDY SUMENDAP</h3>
+            <p>Halo Saya Rivaldy Sumendap saya berumur 18 tahun, hobi saya bermain video games, saya berkuliah di Teknik Informatika unsrat, Terima Kasih</p>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <div class="gallery">
+                <img src="AI.jpeg" alt="Image 1" width="200">
+                <img src="AI2.jpeg" alt="Image 2" width="200">
+                <img src="AI3.jpeg" alt="Image 3" width="200">
+                <img src="AI4.jpeg" alt="Image 4" width="200">
+            </div>
+        </section>
+
+        <section id="blog">
+            <h2>Blog</h2>
+
+            <article>
+                <h2>Peran Teknologi dalam Pelestarian Lingkungan</h2>
+                <p>Di era modern ini, teknologi telah menjadi kunci dalam upaya pelestarian lingkungan. Berbagai inovasi teknologi telah diterapkan untuk mengurangi dampak negatif aktivitas manusia terhadap alam, serta mendukung upaya pelestarian sumber daya alam.</p>
+                <p>Dalam artikel ini, kita akan mengeksplorasi beberapa contoh bagaimana teknologi digunakan untuk pelestarian lingkungan. Mulai dari penggunaan energi terbarukan dan teknologi ramah lingkungan dalam industri, hingga aplikasi teknologi dalam pemantauan dan pemulihan ekosistem yang terancam.</p>
+                <p>Sumber: <a href="https://www.nature.org/en-us/" target="_blank">The Nature Conservancy - Conservation Technology</a></p>
+            </article>
+            
+            <article>
+                <h2>Dampak Positif dan Negatif Artificial Intelligence (AI) dalam Kehidupan Manusia</h2>
+                <p>Artificial Intelligence (AI) atau kecerdasan buatan merupakan salah satu teknologi yang berkembang pesat dalam beberapa tahun terakhir. AI memiliki potensi besar untuk mengubah berbagai aspek kehidupan manusia, baik dalam bidang kesehatan, pendidikan, ekonomi, dan banyak lagi.</p>
+                <p>Namun, di balik potensinya yang besar, AI juga memiliki beberapa dampak negatif yang perlu diwaspadai. Dalam artikel ini, kita akan membahas beberapa dampak positif dan negatif AI dalam kehidupan manusia, serta bagaimana kita dapat memanfaatkan AI dengan bijak dan bertanggung jawab.</p>
+                <p>Sumber: <a href="https://www.kompas.com/tren/read/2023/12/12/100000765/dampak-positif-dan-negatif-artificial-intelligence-ai-dalam?page=all" target="_blank">Kompas - Dampak Positif dan Negatif Artificial Intelligence (AI) dalam Kehidupan Manusia</a></p>
+            </article>
+
+            <article>
+                <h2>Tips Memilih Smartphone yang Tepat di Era Digital</h2>
+                <p>Di era digital ini, smartphone telah menjadi kebutuhan pokok bagi banyak orang. Smartphone digunakan untuk berbagai aktivitas, seperti berkomunikasi, bekerja, belajar, dan hiburan. Dengan banyaknya pilihan smartphone di pasaran, memilih smartphone yang tepat dapat menjadi hal yang membingungkan.</p>
+                <p>Dalam artikel ini, kita akan membahas beberapa tips memilih smartphone yang tepat di era digital. Kita akan membahas beberapa faktor yang perlu dipertimbangkan, seperti spesifikasi, fitur, harga, dan kebutuhan pribadi.</p>
+                <p>Sumber: <a href="https://www.tek.id/tek-life/5-tips-memilih-smartphone-yang-tepat-di-era-digital-saat-ini-aK223t" target="_blank">Tek.id - Tips Memilih Smartphone yang Tepat di Era Digital</a></p>
+            </article>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:jirehtulung2004@gmail.com" target="_blank">Email Saya</a></li>
+                <li><strong>Phone:</strong> <a href="https://wa.me/+6282191994616" target="_blank">WhatsApp</a></li>
+                <li><strong>Instagram:</strong> <a href="https://www.instagram.com/jtulungs?igsh=MWQ5bTVhc202emNjdg==" target="_blank">Instagram</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
