@@ -1,2 +1,2 @@
 # TIK2032-Project
-Repositori project TIK2032 - Theogravo Mundung 220211060289
+Repositori project TIK2032 - Rivaldy Sumendap 220211060289
